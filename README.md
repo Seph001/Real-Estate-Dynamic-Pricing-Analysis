@@ -164,12 +164,12 @@ This project demonstrates proficiency in:
 # Dashboard Preview
 
 ## Executive Overview
-![image alt](
+![image alt](https://github.com/Seph001/Real-Estate-Dynamic-Pricing-Analysis/blob/8dfb58d5e9af2361308430baebcb893f88252f5a/Executive%20Summary.jpeg)
 
 ## Pricing Performance
-![image alt](
+![image alt](https://github.com/Seph001/Real-Estate-Dynamic-Pricing-Analysis/blob/8dfb58d5e9af2361308430baebcb893f88252f5a/Demand%20Intelligence.jpeg)
 
 ## Decision Support Engine
-![image alt](
+![image alt](https://github.com/Seph001/Real-Estate-Dynamic-Pricing-Analysis/blob/8dfb58d5e9af2361308430baebcb893f88252f5a/Pricing%20Intelligence.jpeg)
 
 ---
